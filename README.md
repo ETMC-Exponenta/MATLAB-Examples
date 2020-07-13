@@ -8,7 +8,7 @@
 - [Математические функции](Math/math_functions.pdf) ([mlx](Math/math_functions.mxl)) ([m](Math/math_functions_plain.m))
 
 ## [Статистика](Statistics)
-- [Случайные числа](Statistics/stat_random.pdf) ([mlx](Statistics/stat_random.mxl)) ([m](Statistics/stat_random.m))
+- [Случайные числа](Statistics/stat_random.pdf) ([mlx](Statistics/stat_random.mxl)) ([m](Statistics/stat_random_plain.m))
 
 # Как скачать и запустить
 
