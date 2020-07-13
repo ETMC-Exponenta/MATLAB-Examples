@@ -9,6 +9,10 @@
 
 # Как скачать и запустить
 
+## Способ 1 (быстрый)
+Выполните в MATLAB: `eval(webread('https://git.io/JJOhb'))`
+
+## Способ 2
 Скачайте по ссылке [архив](https://github.com/ETMC-Exponenta/MATLAB-Examples/archive/master.zip) с примерами, распакуйте в папку и откройте её в MATLAB.
 
 # Обсуждения и пожелания
