@@ -7,3 +7,4 @@ instFs = unzip(instURL);
 cd(instFs{1});
 clear instURL instFs
 disp('Готово!')
+open README.mlx
