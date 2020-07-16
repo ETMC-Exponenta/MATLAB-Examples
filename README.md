@@ -12,6 +12,7 @@
 # Статистика
 
    -  [Случайные числа](Statistics/random_numbers.mlx) ([pdf](Statistics/random_numbers.pdf)) ([m](Statistics/random_numbers_plain.m)) 
+   -  [Базовая статистика](Statistics/basic_statistics.mlx) ([pdf](Statistics/basic_statistics.pdf)) ([m](Statistics/basic_statistics_plain.m)) 
 
   
 # Как скачать и запустить
