@@ -10,7 +10,7 @@ for sdir = ds.path'
         [fout, fs] = du.convertMlx(sdir2, 'md', 'Target', fullfile(sdir2, 'README.md'), 'Force', 1);
         if fs.converted(1)
             txt = DevUtils.readtxt(fout(1), 'Split', true);
-            pdfmsg = sprintf("\n**Рекомендуем смотреть пример в [PDF](%s.pdf)**", fs.shortname(1));
+            pdfmsg = sprintf("\n### Важно: рекомендуем смотреть пример в [PDF](%s.pdf)", fs.shortname(1));
             txt = [txt(1); pdfmsg; txt(2:end)];
             DevUtils.writetxt(txt, fout(1));
         end
