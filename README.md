@@ -19,8 +19,6 @@
    -  [Построение графиков](Visualization/basic_plot.mlx) ([pdf](Visualization/basic_plot.pdf)) ([m](Visualization/basic_plot_plain.m)) 
    -  [Настройка графиков](Visualization/setup_plot.mlx) ([pdf](Visualization/setup_plot.pdf)) ([m](Visualization/setup_plot_plain.m)) 
 
-  
-  
 # Как скачать и запустить
 ## Способ 1 (быстрый)
 
