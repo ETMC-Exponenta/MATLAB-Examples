@@ -34,5 +34,14 @@ ans + 1
 % их удалить:
 
 clear
-%% 
-%
+%% Дополнительно
+% <https://docs.exponenta.ru/matlab/examples.html?category=elementary-math#elementary-math 
+% Больше математических примеров> [<https://www.mathworks.com/help/matlab/examples.html?category=elementary-math 
+% english>]
+% 
+% <https://docs.exponenta.ru/matlab/elementary-math.html Подробнее об элементарной 
+% математике в MATLAB> [<https://docs.exponenta.ru/matlab/elementary-math.html 
+% english>]
+% 
+% <https://www.youtube.com/playlist?list=PLmu_y3-DV2_nKd7epECPEbTVamsmEmMMI 
+% Введение в MATLAB (видео)>
