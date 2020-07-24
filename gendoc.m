@@ -7,10 +7,10 @@ ds = ds(ds.name ~= ".git", :);
 for sdir = ds.path'
     [~, ds2] = DevUtils.dir(sdir);
     for sdir2 = ds2.path'
-        [fout, fs] = du.convertMlx(sdir2, 'md', 'Target', fullfile(sdir2, 'README.md'), 'Force', 1);
+        [fout, fs] = du.convertMlx(sdir2, 'md', 'Target', fullfile(sdir2, 'README.md'), 'Force', false);
         if fs.converted(1)
             txt = DevUtils.readtxt(fout(1), 'Split', true);
-            pdfmsg = sprintf("\n### Важно: рекомендуем посмотреть пример в [PDF](%s.pdf), а также изучить [материалы](#дополнительно)", fs.shortname(1));
+            pdfmsg = sprintf("\n### Важно: рекомендуем посмотреть пример в [PDF](%s.pdf), а также изучить [дополнительные материалы](#дополнительно)", fs.shortname(1));
             txt = [txt(1); pdfmsg; txt(2:end)];
             DevUtils.writetxt(txt, fout(1));
         end
