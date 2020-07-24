@@ -35,3 +35,11 @@ plot(x, y) % строим график
 ```
 
 ![figure_0.png](README_images/figure_0.png)
+
+# Дополнительно
+
+[Больше примеров с математическими функциями](https://docs.exponenta.ru/matlab/examples.html?category=mathematics#mathematics) [[english](https://www.mathworks.com/help/matlab/examples.html?category=mathematics)]
+
+[Подробнее о математических функциях в MATLAB](https://docs.exponenta.ru/matlab/mathematics.html) [[english](https://www.mathworks.com/help/matlab/mathematics.html)]
+
+[Массивы и матрицы (видео)](https://youtu.be/7AsTymGlWo4)

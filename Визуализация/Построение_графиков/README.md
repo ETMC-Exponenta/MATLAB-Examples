@@ -101,3 +101,13 @@ polarplot(t, p)
 ```
 
 ![figure_7.png](README_images/figure_7.png)
+
+# Дополнительно
+
+[Больше примеров с построением графиков](https://docs.exponenta.ru/matlab/examples.html?category=graphics#graphics) [[english](https://www.mathworks.com/help/matlab/examples.html?category=graphics)]
+
+[Подробнее о построении графиков в MATLAB](https://docs.exponenta.ru/matlab/graphics.html) [[english](https://www.mathworks.com/help/matlab/graphics.html)]
+
+[Интерактивное построение графиков (видео)](https://youtu.be/J_hGJ7wYCr4)
+
+[Библиотека графиков от MathWorks](https://www.mathworks.com/products/matlab/plot-gallery.html)

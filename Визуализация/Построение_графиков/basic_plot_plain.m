@@ -64,3 +64,15 @@ figure
 t = linspace(-22, 22, 1000); % график будет содержать 1000 точек
 p = t .* sin(50 * t / 8);
 polarplot(t, p)
+%% Дополнительно
+% <https://docs.exponenta.ru/matlab/examples.html?category=graphics#graphics 
+% Больше примеров с построением графиков> [<https://www.mathworks.com/help/matlab/examples.html?category=graphics 
+% english>]
+% 
+% <https://docs.exponenta.ru/matlab/graphics.html Подробнее о построении графиков 
+% в MATLAB> [<https://www.mathworks.com/help/matlab/graphics.html english>]
+% 
+% <https://youtu.be/J_hGJ7wYCr4 Интерактивное построение графиков (видео)>
+% 
+% <https://www.mathworks.com/products/matlab/plot-gallery.html Библиотека графиков 
+% от MathWorks>

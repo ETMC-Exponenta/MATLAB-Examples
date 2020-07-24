@@ -41,3 +41,13 @@ i2 = randi(21) - 11
 
 i3 = randi(100, 100, 10);
 histogram(i3)
+%% Дополнительно
+% <https://docs.exponenta.ru/matlab/examples.html?category=random-number-generation#random-number-generation 
+% Больше примеров со случайными числами> [<https://www.mathworks.com/help/matlab/examples.html?category=random-number-generation 
+% english>]
+% 
+% <https://docs.exponenta.ru/matlab/random-number-generation.html Подробнее 
+% о работе со случайными числами в MATLAB> [<https://www.mathworks.com/help/matlab/random-number-generation.html 
+% english>]
+% 
+% <https://youtu.be/bm2CyGGKVxM Статистика в MATLAB (видео)>

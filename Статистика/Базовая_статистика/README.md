@@ -59,3 +59,11 @@ hold off
 ```
 
 ![figure_0.png](README_images/figure_0.png)
+
+# Дополнительно
+
+[Больше примеров с базовой статистикой](https://docs.exponenta.ru/matlab/data_analysis/descriptive-statistics.html) [[english](https://www.mathworks.com/help/matlab/data_analysis/descriptive-statistics.html)]
+
+[Подробнее о работе с базовой статистикой в MATLAB](https://docs.exponenta.ru/matlab/descriptive-statistics.html) [[english](https://www.mathworks.com/help/matlab/descriptive-statistics.html)]
+
+[Статистика в MATLAB (видео)](https://youtu.be/bm2CyGGKVxM)

@@ -26,5 +26,13 @@ histogram(r1)
 hold on
 xline(m2, 'red', 'LineWidth', 2)
 hold off
-%% 
-%
+%% Дополнительно
+% <https://docs.exponenta.ru/matlab/data_analysis/descriptive-statistics.html 
+% Больше примеров с базовой статистикой> [<https://www.mathworks.com/help/matlab/data_analysis/descriptive-statistics.html 
+% english>]
+% 
+% <https://docs.exponenta.ru/matlab/descriptive-statistics.html Подробнее о 
+% работе с базовой статистикой в MATLAB> [<https://www.mathworks.com/help/matlab/descriptive-statistics.html 
+% english>]
+% 
+% <https://youtu.be/bm2CyGGKVxM Статистика в MATLAB (видео)>

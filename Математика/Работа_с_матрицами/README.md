@@ -153,3 +153,11 @@ m1m6_el = 3x3
 ```
 
 Вам нужно запомнить следующие поэлементные операции: `.`*, `./`, `.^`
+
+# Дополнительно
+
+[Больше примеров с матрицами](https://docs.exponenta.ru/matlab/examples.html?category=matrices-and-arrays) [[english](https://www.mathworks.com/help/matlab/examples.html?category=matrices-and-arrays)]
+
+[Подробнее о работе с матрицами в MATLAB](https://docs.exponenta.ru/matlab/matrices-and-arrays.html) [[english](https://www.mathworks.com/help/matlab/matrices-and-arrays.html)]
+
+[Массивы и матрицы (видео)](https://youtu.be/7AsTymGlWo4)

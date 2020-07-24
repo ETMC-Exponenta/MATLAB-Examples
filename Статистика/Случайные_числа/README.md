@@ -78,3 +78,11 @@ histogram(i3)
 ```
 
 ![figure_4.png](README_images/figure_4.png)
+
+# Дополнительно
+
+[Больше примеров со случайными числами](https://docs.exponenta.ru/matlab/examples.html?category=random-number-generation#random-number-generation) [[english](https://www.mathworks.com/help/matlab/examples.html?category=random-number-generation)]
+
+[Подробнее о работе со случайными числами в MATLAB](https://docs.exponenta.ru/matlab/random-number-generation.html) [[english](https://www.mathworks.com/help/matlab/random-number-generation.html)]
+
+[Статистика в MATLAB (видео)](https://youtu.be/bm2CyGGKVxM)

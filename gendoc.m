@@ -7,7 +7,7 @@ ds = ds(ds.name ~= ".git", :);
 for sdir = ds.path'
     [~, ds2] = DevUtils.dir(sdir);
     for sdir2 = ds2.path'
-        [fout, fs] = du.convertMlx(sdir2, 'md', 'Target', fullfile(sdir2, 'README.md'), 'Force', 1);
+        [fout, fs] = du.convertMlx(sdir2, 'md', 'Target', fullfile(sdir2, 'README.md'), 'Force', false);
         if fs.converted(1)
             txt = DevUtils.readtxt(fout(1), 'Split', true);
             pdfmsg = sprintf("\n### Важно: рекомендуем смотреть пример в [PDF](%s.pdf)", fs.shortname(1));

@@ -1,4 +1,4 @@
-# Настройка графиков
+# Оформление графиков
 
 ### Важно: рекомендуем смотреть пример в [PDF](setup_plot.pdf)
 
@@ -59,3 +59,15 @@ ylabel('Значение')
 ```
 
 ![figure_3.png](README_images/figure_3.png)
+
+# Дополнительно
+
+[Больше примеров с оформлением графиков](https://docs.exponenta.ru/matlab/examples.html?category=formatting-and-annotation#formatting-and-annotation) [[english](https://www.mathworks.com/help/matlab/examples.html?category=formatting-and-annotation)]
+
+[Подробнее об оформлении графиков в MATLAB](https://docs.exponenta.ru/matlab/formatting-and-annotation.html) [[english](https://www.mathworks.com/help/matlab/formatting-and-annotation.html)]
+
+[Визуализация данных (видео)](https://youtu.be/BZXTysdoC7I)
+
+[Расширенное построение графиков (видео)](https://youtu.be/rH8kiCK_aUQ)
+
+[Библиотека графиков от MathWorks](https://www.mathworks.com/products/matlab/plot-gallery.html)
