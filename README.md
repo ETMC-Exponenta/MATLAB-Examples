@@ -4,10 +4,10 @@
 
 # Математика
 
-   -  [Математические операции](Math/math_operations.mlx) ([pdf](Math/math_operations.pdf)) ([m](Math/math_operations_plain.m)) 
-   -  [Работа с матрицами](Math/matrices.mlx) ([pdf](Math/matrices.pdf)) ([m](Math/matrices_plain.m)) 
-   -  [Линейная алгебра](Math/linear_algebra.mlx) ([pdf](Math/linear_algebra.pdf)) ([m](Math/linear_algebra_plain.m)) 
-   -  [Математические функции](Math/math_functions.mlx) ([pdf](Math/math_functions.pdf)) ([m](Math/math_functions_plain.m)) 
+   -  [Математические операции](Математика/Математические_операции) ([mlx](Математика/Математические_операции/math_operations.mlx)) ([pdf](Математика/Математические_операции/math_operations.pdf)) ([m](Математика/Математические_операции/math_operations_plain.m)) 
+   -  [Работа с матрицами](Математика/Работа_с_матрицами) ([mlx](Математика/Работа_с_матрицами/matrices.mlx)) ([pdf](Математика/Работа_с_матрицами/matrices.pdf)) ([m](Математика/Работа_с_матрицами/matrices_plain.m)) 
+   -  [Линейная алгебра](Математика/Линейная_алгебра) ([mlx](Математика/Линейная_алгебра/linear_algebra.mlx)) ([pdf](Математика/Линейная_алгебра/linear_algebra.pdf)) ([m](Математика/Линейная_алгебра/linear_algebra_plain.m)) 
+   -  [Математические функции](Математика/Математические_функции) ([mlx](Математика/Математические_функции/math_functions.mlx)) ([pdf](Математика/Математические_функции/math_functions.pdf)) ([m](Математика/Математические_функции/math_functions_plain.m)) 
 
 # Статистика
 
