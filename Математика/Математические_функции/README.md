@@ -38,8 +38,8 @@ plot(x, y) % строим график
 
 # Дополнительно
 
-[Больше примеров с математическими функциями](https://docs.exponenta.ru/matlab/examples.html?category=mathematics#mathematics) [[english](https://www.mathworks.com/help/matlab/examples.html?category=mathematics)]
+[Больше примеров с математическими функциями](https://docs.exponenta.ru/matlab/examples.html?category=mathematics#mathematics) [[оригинал](https://www.mathworks.com/help/matlab/examples.html?category=mathematics)]
 
-[Подробнее о математических функциях в MATLAB](https://docs.exponenta.ru/matlab/mathematics.html) [[english](https://www.mathworks.com/help/matlab/mathematics.html)]
+[Подробнее о математических функциях в MATLAB](https://docs.exponenta.ru/matlab/mathematics.html) [[оригинал](https://www.mathworks.com/help/matlab/mathematics.html)]
 
 [Массивы и матрицы (видео)](https://youtu.be/7AsTymGlWo4)

@@ -39,11 +39,11 @@ ylabel('Значение')
 %% Дополнительно
 % <https://docs.exponenta.ru/matlab/examples.html?category=formatting-and-annotation#formatting-and-annotation 
 % Больше примеров с оформлением графиков> [<https://www.mathworks.com/help/matlab/examples.html?category=formatting-and-annotation 
-% english>]
+% оригинал>]
 % 
 % <https://docs.exponenta.ru/matlab/formatting-and-annotation.html Подробнее 
 % об оформлении графиков в MATLAB> [<https://www.mathworks.com/help/matlab/formatting-and-annotation.html 
-% english>]
+% оригинал>]
 % 
 % <https://youtu.be/BZXTysdoC7I Визуализация данных (видео)>
 % 

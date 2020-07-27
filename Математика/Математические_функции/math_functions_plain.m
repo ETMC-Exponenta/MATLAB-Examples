@@ -19,11 +19,11 @@ plot(x, y) % строим график
 %% Дополнительно
 % <https://docs.exponenta.ru/matlab/examples.html?category=mathematics#mathematics 
 % Больше примеров с математическими функциями> [<https://www.mathworks.com/help/matlab/examples.html?category=mathematics 
-% english>]
+% оригинал>]
 % 
 % <https://docs.exponenta.ru/matlab/mathematics.html Подробнее о математических 
 % функциях в MATLAB> [<https://www.mathworks.com/help/matlab/mathematics.html 
-% english>]
+% оригинал>]
 % 
 % <https://youtu.be/7AsTymGlWo4 Массивы и матрицы (видео)>
 % 

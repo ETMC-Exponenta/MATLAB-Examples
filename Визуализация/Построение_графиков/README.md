@@ -104,9 +104,9 @@ polarplot(t, p)
 
 # Дополнительно
 
-[Больше примеров с построением графиков](https://docs.exponenta.ru/matlab/examples.html?category=graphics#graphics) [[english](https://www.mathworks.com/help/matlab/examples.html?category=graphics)]
+[Больше примеров с построением графиков](https://docs.exponenta.ru/matlab/examples.html?category=graphics#graphics) [[оригинал](https://www.mathworks.com/help/matlab/examples.html?category=graphics)]
 
-[Подробнее о построении графиков в MATLAB](https://docs.exponenta.ru/matlab/graphics.html) [[english](https://www.mathworks.com/help/matlab/graphics.html)]
+[Подробнее о построении графиков в MATLAB](https://docs.exponenta.ru/matlab/graphics.html) [[оригинал](https://www.mathworks.com/help/matlab/graphics.html)]
 
 [Интерактивное построение графиков (видео)](https://youtu.be/J_hGJ7wYCr4)
 

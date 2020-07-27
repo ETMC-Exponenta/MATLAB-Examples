@@ -39,11 +39,11 @@ x2 = A\B
 %% Дополнительно
 % <https://docs.exponenta.ru/matlab/examples.html#linear-algebra Больше примеров 
 % из линейной алгебры> [<https://www.mathworks.com/help/matlab/examples.html?category=linear-algebra 
-% english>]
+% оригинал>]
 % 
 % <https://docs.exponenta.ru/matlab/linear-algebra.html Подробнее о линейной 
 % алгебре в MATLAB> [<https://www.mathworks.com/help/matlab/linear-algebra.html?category=linear-algebra 
-% english>]
+% оригинал>]
 % 
 % <https://www.youtube.com/playlist?list=PLmu_y3-DV2_kkWhk2mK0opp7ma8mSS3xf 
 % Основы линейной алгебры в MATLAB (видео)>

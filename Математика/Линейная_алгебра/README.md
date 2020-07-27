@@ -126,8 +126,8 @@ x2 = 3x3
 
 # Дополнительно
 
-[Больше примеров из линейной алгебры](https://docs.exponenta.ru/matlab/examples.html#linear-algebra) [[english](https://www.mathworks.com/help/matlab/examples.html?category=linear-algebra)]
+[Больше примеров из линейной алгебры](https://docs.exponenta.ru/matlab/examples.html#linear-algebra) [[оригинал](https://www.mathworks.com/help/matlab/examples.html?category=linear-algebra)]
 
-[Подробнее о линейной алгебре в MATLAB](https://docs.exponenta.ru/matlab/linear-algebra.html) [[english](https://www.mathworks.com/help/matlab/linear-algebra.html?category=linear-algebra)]
+[Подробнее о линейной алгебре в MATLAB](https://docs.exponenta.ru/matlab/linear-algebra.html) [[оригинал](https://www.mathworks.com/help/matlab/linear-algebra.html?category=linear-algebra)]
 
 [Основы линейной алгебры в MATLAB (видео)](https://www.youtube.com/playlist?list=PLmu_y3-DV2_kkWhk2mK0opp7ma8mSS3xf)

@@ -62,9 +62,9 @@ ylabel('Значение')
 
 # Дополнительно
 
-[Больше примеров с оформлением графиков](https://docs.exponenta.ru/matlab/examples.html?category=formatting-and-annotation#formatting-and-annotation) [[english](https://www.mathworks.com/help/matlab/examples.html?category=formatting-and-annotation)]
+[Больше примеров с оформлением графиков](https://docs.exponenta.ru/matlab/examples.html?category=formatting-and-annotation#formatting-and-annotation) [[оригинал](https://www.mathworks.com/help/matlab/examples.html?category=formatting-and-annotation)]
 
-[Подробнее об оформлении графиков в MATLAB](https://docs.exponenta.ru/matlab/formatting-and-annotation.html) [[english](https://www.mathworks.com/help/matlab/formatting-and-annotation.html)]
+[Подробнее об оформлении графиков в MATLAB](https://docs.exponenta.ru/matlab/formatting-and-annotation.html) [[оригинал](https://www.mathworks.com/help/matlab/formatting-and-annotation.html)]
 
 [Визуализация данных (видео)](https://youtu.be/BZXTysdoC7I)
 

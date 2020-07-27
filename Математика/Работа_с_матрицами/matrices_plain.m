@@ -50,10 +50,10 @@ m1m6_el = m1 .* m6
 %% Дополнительно
 % <https://docs.exponenta.ru/matlab/examples.html?category=matrices-and-arrays 
 % Больше примеров с матрицами> [<https://www.mathworks.com/help/matlab/examples.html?category=matrices-and-arrays 
-% english>]
+% оригинал>]
 % 
 % <https://docs.exponenta.ru/matlab/matrices-and-arrays.html Подробнее о работе 
 % с матрицами в MATLAB> [<https://www.mathworks.com/help/matlab/matrices-and-arrays.html 
-% english>]
+% оригинал>]
 % 
 % <https://youtu.be/7AsTymGlWo4 Массивы и матрицы (видео)>

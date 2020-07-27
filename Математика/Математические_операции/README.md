@@ -70,8 +70,8 @@ clear
 
 # Дополнительно
 
-[Больше математических примеров](https://docs.exponenta.ru/matlab/examples.html?category=elementary-math#elementary-math) [[english](https://www.mathworks.com/help/matlab/examples.html?category=elementary-math)]
+[Больше математических примеров](https://docs.exponenta.ru/matlab/examples.html?category=elementary-math#elementary-math) [[оригинал](https://www.mathworks.com/help/matlab/examples.html?category=elementary-math)]
 
-[Подробнее об элементарной математике в MATLAB](https://docs.exponenta.ru/matlab/elementary-math.html) [[english](https://docs.exponenta.ru/matlab/elementary-math.html)]
+[Подробнее об элементарной математике в MATLAB](https://docs.exponenta.ru/matlab/elementary-math.html) [[оригинал](https://docs.exponenta.ru/matlab/elementary-math.html)]
 
 [Введение в MATLAB (видео)](https://www.youtube.com/playlist?list=PLmu_y3-DV2_nKd7epECPEbTVamsmEmMMI)
